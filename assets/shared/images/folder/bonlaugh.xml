@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bonlaugh.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Laugh0000" x="5352" y="721" width="669" height="721"/>
+	<SubTexture name="Laugh0001" x="6021" y="721" width="669" height="721"/>
+	<SubTexture name="Laugh0002" x="6690" y="721" width="669" height="721"/>
+	<SubTexture name="Laugh0003" x="7359" y="721" width="669" height="721"/>
+	<SubTexture name="Laugh0004" x="0" y="1442" width="669" height="721"/>
+	<SubTexture name="Laugh0005" x="669" y="1442" width="669" height="721"/>
+</TextureAtlas>
